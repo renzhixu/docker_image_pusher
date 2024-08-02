@@ -1,1 +1,2 @@
-jenkins/jenkins:2.346.1
+sonatype/nexus3
+leesa1/rocketmq-broker:4.9.4
