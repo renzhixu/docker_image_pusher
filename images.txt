@@ -1,9 +1,1 @@
-rancher/prom-prometheus:v2.18.2
-rancher/coreos-prometheus-config-reloader:v0.39.0
-rancher/jimmidyson-configmap-reload:v0.3.0
-rancher/coreos-prometheus-operator:v0.39.0
-rancher/coreos-kube-state-metrics:v1.9.7
-rancher/prom-node-exporter:v1.0.1
-rancher/grafana-grafana:7.1.5
-rancher/prometheus-auth:v0.2.1
-rancher/mirrored-library-nginx:1.19.9-alpine
+nacos/nacos-server:1.4.1
