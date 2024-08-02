@@ -1,1 +1,1 @@
-kibana:7.5.1
+filebeat:7.5.1
