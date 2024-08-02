@@ -1,1 +1,1 @@
-xxl-job-admin:2.3.0
+kibana:7.5.1
