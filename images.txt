@@ -1,1 +1,2 @@
-mysql:5.7
+rancher-agent:v2.5.9
+rancher:v2.5.9
