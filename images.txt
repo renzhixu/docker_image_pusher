@@ -1,2 +1,1 @@
-rancher/rancher-agent:v2.5.9
-rancher/rancher:v2.5.9
+docker.elastic.co/logstash:7.13.0
