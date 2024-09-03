@@ -1,1 +1,1 @@
-elastalert2
+jertel/elastalert2
