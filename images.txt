@@ -1,1 +1,1 @@
-jertel/elastalert2
+rancher/istio-kubectl:1.5.10
