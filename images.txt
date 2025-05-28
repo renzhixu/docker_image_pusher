@@ -1,1 +1,1 @@
-rancher/istio-kubectl:1.5.10
+docker.io/library/python:3.11-slim-bullseye
