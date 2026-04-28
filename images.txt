@@ -1,1 +1,1 @@
-docker.io/library/python:3.11-slim-bullseye
+cr.weaviate.io/semitechnologies/weaviate:1.30.0
